@@ -67,7 +67,7 @@
 </details>
 
 
-<img src="https://github-readme-stats.vercel.app/api/?username=bash0x0#1337&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+[![discord](https://github-readme-stats.vercel.app/api/?username=bash0x0#1337&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bash0x0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
