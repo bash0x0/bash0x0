@@ -1,5 +1,5 @@
 <p align="center">
-    <img align=center src="https://github.com/bash0x0/bash0x0/raw/master/bashed.gif" alt="Profile" />
+    <img align=center src="https://github.com/bash0x0/bash0x0/blob/main/bashed.gif" alt="Profile" />
 </p>
 
 
