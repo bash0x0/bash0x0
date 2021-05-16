@@ -66,6 +66,12 @@
   </p>
 </details>
 
+
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-4/210854712935841792.png">
+</p>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=bash0x0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Credit to 0xKyoto for template
